@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "sandelio.app",
+    "slug": "sandelio-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Leidimas reikalingas barkodų skanavimui"
+        }
+      ]
+    ]
+  }
+}
